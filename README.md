@@ -1,4 +1,4 @@
-# Museum
+## computer-graphics-museum
 
 ![WhatsApp Image 2024-05-18 at 10 32 37](https://github.com/julialealt/computer-graphics-museum/assets/84246834/5b19e79f-f34a-4fce-a684-b27bdcb71b89)
 
